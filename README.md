@@ -1,2 +1,1 @@
-# snake_game from the angelu yu curse
-  https://www.udemy.com/course/100-days-of-code
+# snake_game in python with the module turtle.py
